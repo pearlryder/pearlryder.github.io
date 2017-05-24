@@ -1,6 +1,5 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: About Pearl
+  url: /about/
+  excerpt: "All about me"

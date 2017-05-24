@@ -5,7 +5,7 @@ description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://www.pearlryder.science
+url: https://pearlryder.github.io
 feed:
   path: atom.xml
 
@@ -26,14 +26,14 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Pearl Ryder, PhD
+  email: ryderp@gmail.com
+  twitter: @pearl_ryder
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: bio-photo.png # 160x160 px image for author byline
   disqus-shortname:
 
 
