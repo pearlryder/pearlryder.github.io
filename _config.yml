@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: “pearl ryder.science”
+title: Pearl Ryder
 description: "Science for all"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://pearlryder.github.io
+url: http://localhost:4000
 feed:
   path: atom.xml
 
@@ -28,7 +28,7 @@ gems:
 owner:
   name: Pearl Ryder, PhD
   email: ryderp@gmail.com
-  twitter: 
+  twitter: "@pearl_ryder"
   google:
     ad-client:
     ad-slot:
