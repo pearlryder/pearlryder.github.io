@@ -1,7 +1,6 @@
 ---
 title: The genesis of Future PI Slack
 layout: article
-categories: plop
 image:
   teaser: future-pi-slack.png
   feature: future-pi-slack-feature.png
