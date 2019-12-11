@@ -1,10 +1,6 @@
 ---
 title: The genesis of Future PI Slack
-layout: article
-image:
-  teaser: future-pi-slack.png
-  feature: future-pi-slack-feature.png
-
+layout: page
 ---
 A few months ago, I happened upon [this interview](http://www.ascb.org/ascb-post/careers/cell-biologists-work-prachee-avasthi-exuberantly-tackling-elegant-experiments-value-preprints/) with [Prachee Avasthi](http://www.avasthilab.org/). I was inspired by her exuberance and began to [follow her on Twitter.](https://twitter.com/PracheeAC) A few months later, in a Twitter break inspired by grant writing, I read more about her efforts to create the New PI Slack group and turn it into a useful community to support new assistant professors. As I read about the group, I kept thinking that I wanted to join a group like this. At the end of her [post on the creation of New PI Slack](http://www.avasthilab.org/2016/08/02/community-for-new-pis/) she wrote that the New PI group was getting multiple requests to join from postdocs - there were other postdocs out there who wanted a group like this too! Without thinking much more deeply about it, I created the Future PI Slack group and grabbed the [@FuturePI_Slack](@FuturePI_Slack) Twitter handle. We've grown quite rapidly in the weeks since then, and I thought it was high time to write about my vision for the group.
 

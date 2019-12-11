@@ -1,10 +1,6 @@
 ---
 title: The grant cycle
-layout: article
-image:
-  teaser: future-pi-slack.png
-  feature: future-pi-slack-feature.png
-
+layout: page
 ---
 My mom often comments that she doesn't really understand my daily life as a scientist - she doesn't have an intuition for what the ups and downs are like. And I must admit that the teenage girl who is always inside me when it comes to family has been known to moan “you just don't understand.” My adult self has countered with “well then, why don't you explain?” and I've decided to take up the challenge. This post is the first of what I hope will be many that tries to bridge that gap and help my mom (and others who are interested) understand the daily life of a scientist.
 

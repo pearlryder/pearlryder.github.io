@@ -1,11 +1,15 @@
-<ul class="menu-item">
-	<li class="home"><a href="/">{{ site.title }}</a></li>
-	{% for link in site.data.navigation %}
-    {% if link.url contains 'http' %}
-        {% assign domain = '' %}
-        {% else %}
-        {% assign domain = site.url %}
+{% assign default_paths = site.pages | map: "path" %}
+{% assign page_paths = site.header_pages | default: default_paths %}
+
+{% for path in page_paths %}
+    
+    {% assign item = site.pages | where: "path", path | first %}
+    
+    {% if item.title and page.title == item.title %}
+        <a class="nav-active" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% elsif item.title %}
+        <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
     {% endif %}
-    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-  {% endfor %}
-</ul>
+
+    
+{% endfor %}

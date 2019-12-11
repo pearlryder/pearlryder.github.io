@@ -1,10 +1,6 @@
 ---
 title: Teaching Recap: Precision Medicine, Race, and Health
-layout: article
-image:
-  teaser: future-pi-slack.png
-  feature: future-pi-slack-feature.png
-
+layout: page
 ---
 As a member of the [Fellowships in Research and Science Teaching program](http://www.biology.emory.edu/first/) here at Emory, I have been taking a course this semester on "How to Teach" (which led to the quick demise of [my project to document my reading](https://pearlryder.github.io/reading-for-pleasure/) and very much impacted my Twitter presence - it turns out that as things get busy in my work life, keeping up with Twitter goes out the door). But we're nearing the end of the semester now, and I wanted to take some time to reflect back on my most recent experience teaching within the course and to share some teaching tools for discussing Precision Medicine, Race, and Health.
 
@@ -24,7 +20,7 @@ Once we had the information from literature summarized on the board, our next go
 5. Nutrition
 6. Education and work
 7. Interaction with healthcare system (including prior experiences of healthcare bias)
-  
+
 These topics directly related to prior course topics and allowed students to apply what they had learned in those classes (such as having at least one of our metro Atlantans live in a food desert, a topic we had discussed a few weeks prior). Students divided into groups of 2-3 and each group received a one-page [assignment](https://docs.google.com/document/d/1foiAL59-o8XQyqLN68I3sEjEVFh9FYFt9d3by-dSPa4/edit?usp=sharing). They then could ask for information from one of those categories one at a time. [Here](https://docs.google.com/document/d/1ISc2iseGO4JBuraTZXfdHQZIHD5dpyLZijgzk3oANfU/edit?usp=sharing) are the cases themselves. We deliberately set this one-piece-of-information-at-a-time rule to mimic how you talk with a patient (one question at a time) and to force students to prioritize and consider which pieces of information they thought would be most important. Students then tried to see where they thought precision medicine would be useful for patients and when they thought it would be a distraction.
 
 This exercise was really interesting for me as a former physician, scientist, and educator. Our class really dove into discussing these people's stories and it brought alive the challenges of applying expensive clinical technologies in a society with high income inequality, prior and current racism, and lack of access to universal basic healthcare. One student shared that his perspective on precision medicine shifted after considering the case of a poor white man without insurance coverage who actively smoked and was sedentary due to his work as a truck driver. The group that considered that man's story ultimately concluded that bringing in expensive genetic technologies (if they were somehow were to be made available to him) might prove to be a distraction from other more pressing issues, like quitting smoking, losing weight, and potentially finding a job that allows for a healthier lifestyle. In discussion of our other cases, the groups saw more potential for precision medicine to help tailor recommendations and individualize care. For example, one of our cases was a 32 year-old Hispanic female who was overweight and ate a meat and carbohydrate heavy diet. That group discussed the possibility that perhaps the tools of precision medicine could help to better define her true risk for coronary artery disease and that perhaps she does not need to change her diet (I must admit here that my own beliefs about nutrition make it hard for me to accept that she shouldn't eat more vegetables and less saturated fats, but it's not wise to fight with hypotheticals). We ultimately stumbled into an interesting discussion on the difference between precision / personalized medicine vs. person-centered care. Unfortunately we ran out of time to discuss more as a lot of folks were charged up with lots of ideas that they wanted to share (a nice place to end).

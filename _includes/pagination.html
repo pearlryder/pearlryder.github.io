@@ -1,15 +1,23 @@
-<nav class="pagination">
-  {% capture category_name %}{{ page.categories | first }}{% endcapture %}
-  {% for post in site.categories.[category_name] %}
-    {% if post.url == page.url %}
-      {% assign post_index0 = forloop.index0 %}
-      {% assign post_index1 = forloop.index %}
+{% if paginator.total_pages != 1 %}
+<div class="pagination clearfix mb1 mt4">
+  <div class="left">
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a class="pagination-item" href="{{ "/" | relative_url }}">{{ site.text.pagination.newer | default: "Newer" }}</a>
+      {% else %}
+        <a class="pagination-item" href="{{ paginator.previous_page_path | relative_url }}">{{ site.text.pagination.newer | default: "Older" }}</a>
+      {% endif %}
+    {% else %}
+      <span class="pagination-item disabled">{{ site.text.pagination.newer | default: "Newer" }}</span>
     {% endif %}
-  {% endfor %}
-  {% for post in site.categories.[category_name] %}
-    {% if post_index0 == forloop.index %}{% assign next_post = post %}{% endif %}
-    {% if post_index1 == forloop.index0 %}{% assign prev_post = post %}{% endif %}
-  {% endfor %}
-  {% if prev_post %}<a class="prev" href="{{ site.url }}{{ prev_post.url }}">{{ prev_post.title }}</a>{% endif %}
-  {% if next_post %}<a class="next" href="{{ site.url }}{{ next_post.url }}">{{ next_post.title }}</a>{% endif %}
-</nav>
+  </div>
+  <div class="right">
+    {% if paginator.next_page %}
+      <a class="pagination-item" href="{{ paginator.next_page_path | relative_url }}">{{ site.text.pagination.older | default: "Older" }}</a>
+    {% else %}
+      <span class="pagination-item disabled">{{ site.text.pagination.older | default: "Older" }}</span>
+    {% endif %}
+  </div>
+  <div class="pagination-meta">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
+</div>
+{% endif %}
