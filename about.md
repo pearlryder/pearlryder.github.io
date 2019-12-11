@@ -1,5 +1,5 @@
 ---
-title: Pearl Ryder, MD, PhD
+title: About Pearl
 layout: page
 permalink: /about/
 tags: about
