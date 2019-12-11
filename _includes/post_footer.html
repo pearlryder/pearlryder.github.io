@@ -1,10 +1,18 @@
-<div class="py2 post-footer">
-  <img src="{{ site.baseurl }}/images/me.jpeg" alt="John Otander" class="avatar" />
-  <p>
-    Pixyll is an open-source Jekyll theme that's built by <a href="http://johnotander.com">John Otander</a>.
-    When he's not writing code and building things, he likes to ski. A. Lot.
-  </p>
-  <p>
-    Follow him on <a href="https://twitter.com/4lpine">Twitter</a>.
-  </p>
-</div>
+<footer class="center">
+  <div class="measure">
+    <small>
+      Find me on Twitter <a href="https://twitter.com/pearl_ryder">@pearl_ryder</a>.
+    </small>
+  </div>
+</footer>
+{% if site.enable_anchorjs %}<!-- AnchorJS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>{% endif %}
+<script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
+    }
+</script>
