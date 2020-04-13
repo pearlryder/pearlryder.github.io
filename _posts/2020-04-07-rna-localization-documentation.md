@@ -56,8 +56,8 @@ pip install numpy
 pip install itkwidgets==0.14.0
 conda install -c anaconda psycopg2
 conda install -c anaconda sqlalchemy
-pip install Shapely
 pip install aicssegmentation==0.01.17
+conda install seaborn
 ```
 
 #### 1.6 Download the Allen  Cell Segmenter to a local folder
@@ -240,7 +240,6 @@ pg_ctl stop -D ~/usr/local/pgsql/data
 You're now ready to extract information from your segmented images! The standard way that we'll execute this code is from Jupyter notebooks, unless you prefer to run the code on a virtual cluster.
 
 ## Step 4: Run the RNA localization pipeline
-
 #### 4.1 Open the pipeline.ipynb jupyter notebook
 Navigate in the terminal to your rna-localization folder and launch Jupyter notebook. Note the command below is specialized to allow for the processing needed for distance measurements.
 
@@ -373,3 +372,12 @@ psql
 SELECT * from rna WHERE rna_type = 'cen' limit 10;
 SELECT * from rna WHERE rna_type = 'gapdh' limit 10;
 ```
+
+#### 4.6 Calculate the cumulative percent distribution of RNA relative to distance from subcellular objects of interest
+We find that cumulative distribution profiles are very powerful to visualize differences in the spatial distribution of RNAs relative to subcellular objects of interest. This method calculates the percentage of total RNA at different distances from the subcellular object of interest.  
+
+The first step is to update the parameters. The structure_1 and structure_2 parameters are the same parameters that were used in the distance measurements section. In that section, you created a column in the structure_1 table called "distance_to_structure_2" containing a distance in microns for each structure_1 object.
+
+You'll also need to decide if you want to set a threshold for how far an RNA object can be from a structure_2 object and still be considered a "true" RNA object. For example, our data from early embryos often contains RNA objects that are outside of cellular structures and represent background data. The precise and consistent geometry of the early embryo allows us to set an upper limit depending on developmental stage for how far away from a centrosome an RNA object can be. Setting this threshold helps our plots to appear consistent between images, but we've noted that it doesn't affect our conclusions. If you do not want to set such a threshold, you can define ```distance_threshold = None``` and the pipeline will calculate the cumulative percent of total RNA up to the maximum distance_to_structure_2 for each image.
+
+Next, you'll need to define the step_size parameter. This parameter sets the interval size for calculating the percentage of RNA. For example, if you set step_size = 0.05, then the pipeline will calculate the percentage of total RNA and the percentage of total RNA in granules that localizes within 0, 0.05, 0.10, 0.15 microns up to your distance threshold.
