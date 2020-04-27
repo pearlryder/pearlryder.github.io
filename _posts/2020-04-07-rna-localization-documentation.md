@@ -143,9 +143,9 @@ Note that no segmentation process will ever be perfect. We refer you to this [ex
 Continue this process until you're satisfied with the segmentation process. We recommend walking through at least two images from each biological condition to test your workflow before moving to the next step -- batch processing.
 
 #### 2.2 Batch process image segmentation
-Once we're satisfied with my workflow, we use the Allen Cell Segmenter's batch processing mode to segment my entire dataset. We then review the results of that segmentation for each image in Fiji (or a representative subset of your images if your dataset is really big).
+Once we're satisfied with my workflow, we use the Allen Cell Segmenter's batch processing mode to segment our entire dataset. We then review the results of that segmentation for each image in Fiji (or a representative subset of your images if your dataset is really big).
 
-If you changed the parameters in the Jupyter notebook for RNA segmentation, then you'll first want to update the batch processing file for RNA named "seg_rna.py" and located in the "batch-processing-code" folder. Open the file using a text editor. Update the code using copy-paste so that the pre-processing, processing, and post-processing steps reflect the workflow you optimized in step 2.1. [This tutorial](https://www.youtube.com/watch?v=Ynl_Yt9N8p4) may be helpful.
+If you changed the parameters in the Jupyter notebook for RNA segmentation, then you'll first want to update the batch processing file for RNA named "seg_rna.py" and located in the "batch-processing-scripts" folder. Open the file using a text editor. Update the code using copy-paste so that the pre-processing, processing, and post-processing steps reflect the workflow you optimized in step 2.1. [This tutorial](https://www.youtube.com/watch?v=Ynl_Yt9N8p4) may be helpful.
 
 Once you've updated your seg_rna.py code, you'll need to copy it into the folder that contains the Allen Institute Cell Segmenter in your conda environment for segmentation. The easiest way we've found to identify where my anaconda environment is stored on my computer is to search for a batch processing workflow using:
 ```bash
@@ -161,7 +161,7 @@ You'll see something like:
 This output signifies that I have two locations for the Allen Institute Cell Segmenter batch processing workflows: one located at  ```/Users/pearlryder/Projects/aics-segmentation/aicssegmentation/structure_wrapper/seg_cetn2.py``` and one at ```/Users/pearlryder/opt/anaconda3/envs/segmentation/lib/python3.7/site-packages/aicssegmentation/structure_wrapper/seg_cetn2.py```. As you can see, the anaconda3 path is the one we're looking for. Now, you can copy your seg_rna.py code into the structure_wrapper folder in the anaconda3 environment:
 
 ```bash
-cp ~/Projects/rna-localization-pipeline/batch-processing-code/seg_rna.py ~/opt/anaconda3/envs/segmentation/lib/python3.7/site-packages/aicssegmentation/structure_wrapper/
+cp ~/Projects/rna-localization-pipeline/batch-processing-scripts/seg_rna.py ~/opt/anaconda3/envs/segmentation/lib/python3.7/site-packages/aicssegmentation/structure_wrapper/
 ```
 
 Once you've copied your batch processing code into the anaconda folder, you're ready to batch process your images. The following code should work, although you may need to change the input and output_dir paths, depending on where your raw data is stored.
@@ -177,7 +177,7 @@ We often find that once we batch process the images, we need to tweak our parame
 Once you're satisfied with the segmentations for your smFISH signal, you'll want to repeat the same process for your second structure of interest. If you're using our test-data to learn the workflow, you can repeat the steps above using the playground_centrosomes.ipynb Jupyter notebook and the seg_cent.py workflow. Here's an example of the command to copy the seg_cent.py batch processing workflow into your anaconda folder:
 
 ```bash
-cp ~/Projects/rna-localization-pipeline/batch-processing-code/seg_cent.py ~/opt/anaconda3/envs/segmentation/lib/python3.7/site-packages/aicssegmentation/structure_wrapper/
+cp ~/Projects/rna-localization-pipeline/batch-processing-scripts/seg_cent.py ~/opt/anaconda3/envs/segmentation/lib/python3.7/site-packages/aicssegmentation/structure_wrapper/
 ```
 
  Note that when you run the batch processing command, you'll need to update the workflow name and the input and output directories, e.g.:
@@ -358,7 +358,7 @@ SELECT * from images;
 
 #### 4.5 Normalize RNA to estimate number of single molecules per object
 
-This section estimates the number of RNA molecules per object for each of the RNA types in your experiment (as described by your rna_type column in the images table). The logic of this method is that it estimates the integrated intensity (also called the total intensity in the database) of small objects for a given RNA. These small objects are identified using an area threshold. For our data, we have empirically found that RNA objects containing between 50 and 100 pixels represent single molecules of RNA. We are developing a method for you to explore your data to visualize the size of small objects in your dataset to estimate the best parameters for these thresholds.
+This section estimates the number of RNA molecules per object for each of the RNA types in your experiment (as described by your rna_type column in the images table). The logic of this method is that it estimates the integrated intensity (also called the total intensity in the database) of small objects for a given RNA. These small objects are identified using an area threshold. For our data, we opened several representative images of smFISH data imaged at 100x on our spinning disk confocal microscope in Fiji and measured the size of individual molecules of RNA in pixels. Fiji's oval tool is helpful to measure the diameter of single molecules in multiple z slices. These measurements can help you estimate the number of pixels that represent one molecule of RNA and establish the upper and lower area parameters for your own data.
 
 The first cell requires you to define parameters for the name of the table that contains your RNA data. This cell is where you define the upper and lower thresholds for your small objects and the names of your RNA types. After importing packages, the next cell adds columns to your RNA table to hold the normalized intensity data.
 
@@ -376,8 +376,47 @@ SELECT * from rna WHERE rna_type = 'gapdh' limit 10;
 #### 4.6 Calculate the cumulative percent distribution of RNA relative to distance from subcellular objects of interest
 We find that cumulative distribution profiles are very powerful to visualize differences in the spatial distribution of RNAs relative to subcellular objects of interest. This method calculates the percentage of total RNA at different distances from the subcellular object of interest.  
 
-The first step is to update the parameters. The structure_1 and structure_2 parameters are the same parameters that were used in the distance measurements section. In that section, you created a column in the structure_1 table called "distance_to_structure_2" containing a distance in microns for each structure_1 object.
+The first step is to update the parameters. The structure_1 and structure_2 parameters are the same parameters that were used in the distance measurements section. In that section, you created a column in the structure_1 table called "distance_to_structure_2" containing a distance in microns for each structure_1 object. The "image_name_column" parameter is the name of the column in your images table that holds the image names data. If you're uncertain of what you named this column, you can either check section 4.4 (where you created this table) or you can run the 4th cell in this section, which will print the names of the columns in your images table.
 
 You'll also need to decide if you want to set a threshold for how far an RNA object can be from a structure_2 object and still be considered a "true" RNA object. For example, our data from early embryos often contains RNA objects that are outside of cellular structures and represent background data. The precise and consistent geometry of the early embryo allows us to set an upper limit depending on developmental stage for how far away from a centrosome an RNA object can be. Setting this threshold helps our plots to appear consistent between images, but we've noted that it doesn't affect our conclusions. If you do not want to set such a threshold, you can define ```distance_threshold = None``` and the pipeline will calculate the cumulative percent of total RNA up to the maximum distance_to_structure_2 for each image.
 
 Next, you'll need to define the step_size parameter. This parameter sets the interval size for calculating the percentage of RNA. For example, if you set step_size = 0.05, then the pipeline will calculate the percentage of total RNA and the percentage of total RNA in granules that localizes within 0, 0.05, 0.10, 0.15 microns up to your distance threshold.
+
+Finally, you will need to define the directory where you want to save .csv files of the calculated distribution data. By default, we choose to save all output to a folder within your data directory named "output". Within the output folder, the pipeline creates a "data" folder to hold these files. This directory is printed out to help you find the .csv files. The next cell creates the output and data folders if they don't already exist.
+
+The following cell accesses the images table, automatically pulls all of the metadata for each image, and processes it into a useful format. In doing so, the distribution data will be connected to each image's metadata, which will allow you to compare the RNA distribution for the biological conditions that you describe using the images table. This cell also prints out the names of the columns in your images table, to help you remember the name of the column containing the names of your images.
+
+The following cell calculates the cumulative distribution of RNA and the cumulative distribution of RNA in granules and returns the data in a dataframe (similar to a spreadsheet). Note that it will likely take a few minutes to run this cell. A status update will be printed as it calculates the distributions for each image.
+
+Once the distributions are calculated, the first ten rows of the RNA distribution data will be displayed using the following cell. You can then save this data as a .csv file in the following cell. By default, data will not be overwritten. You can change the name of your output file using the "distribution_data_filename" variable, if desired.
+
+#### 4.7 Plot cumulative distribution data
+In this section, we provide examples of how to plot the RNA distribution data using the Seaborn library. Our method allows you to create line graphs plotting the cumulative distribution of RNA relative to the distance from your subcellular structure of interest. Note that there are many options for subsetting your data according to different variables from your images table, many of which we can't anticipate. We refer you to the excellent [Seaborn tutorials](https://seaborn.pydata.org/tutorial.html), which can help you customize your plots.
+
+As usual, the first cell of this section imports the necessary packages. The next cell is where you adapt the parameters for your data. The `distribution_data_filename` variable is the name of the .csv file that contains the data for cumulative RNA distributions, which was calculated and saved in section 4.6. `data_output_dir` is the path to the directory where the distribution data file is stored. This directory will also be used to save csv files containing subsets of your RNA distribution data, as discussed below. Finally, you can specify a directory where you would like to save the plots that you generate in this section. By default, these plots are saved in the output folder, under a sub-directory named plots. The next cell creates this plots directory, if it does not already exist.
+
+In the fourth cell of this section, your RNA distribution file is loaded into a pandas dataframe. In essence, dataframes function much like spreadsheets. You can learn more at [the pandas website](https://pandas.pydata.org/). The first 10 rows of your dataframe are shown in the output window. Verify that you see the expected columns and that the distances increase in the predicted increments.
+
+Next, we generate a [Seaborn lineplot](https://seaborn.pydata.org/tutorial/relational.html#emphasizing-continuity-with-line-plots) that shows the percentage of total RNA relative to distance from the centrosome. The mean percentage of RNA is shown as a dark line with shading to indicate the standard deviation at each distance measurement. These calculations were made on a per image basis in the previous section. As you can see, we use the `rna_type` variable to separate the data according to the RNA type, allowing us to compare the distribution of centrocortin RNA relative to gapdh RNA in our demo dataset. We also use the `cycle` variable to separate the data according to cell cycle in two different columns.
+
+We encourage you to explore the power of Seaborn plotting. What happens if you change `col = 'cycle'` to `row = 'cycle'`? Do you have an additional variable that you'd like use for plotting? For example, one can imaging having both an `rna_type` variable and a `genotype` variable that are of interest. Perhaps you are investigating the distribution of an RNA type that you predict to mislocalize in a mutant genotype relative to a RNA type that you predict will not be affected by the mutant genotype. In that case, you could continue to use `hue = 'rna_type'` and `col = 'cycle'`, while adding in a `row = 'genotype'` parameter. The plotting methods are very flexible, but do require an investment to learn.
+
+Now that you've created a plot, we provide a function for you to save your plots. By defining a function, you can save all your plots using the same parameters. We use matplotlib's [savefig function](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.savefig.html), which has several optional parameters that you can adjust as appropriate for your work. By default, we set `dpi = 600` and `format = 'pdf'`, which we've found work well for building figures.
+
+
+#### 4.8 Save .csv files of your raw object data
+As a precaution, we recommend saving the raw data from your database into .csv files. We know it can be reassuring to have a backup of your data that can be viewed using standard text editors rather than a specialized program like postgres. The last step in the RNA localization pipeline includes a utility to automatically save all the the
+
+## Step 5: Save save save your data
+Finally, we'll tackle saving backup files of your database and how to restore the data into a new postgres database. These approaches are useful to have confidence that your data is secure and may help you run this code on virtual machines, such as using Amazon Web Services.
+
+```bash
+pg_dump database_name | gzip > filename.gz
+
+```
+
+recreate the database
+```bash
+createdb new_database
+gunzip < filename.gz | psql new_database   
+```
