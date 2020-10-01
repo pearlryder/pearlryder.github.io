@@ -12,6 +12,7 @@ I previously worked in the [Lerit Laboratory](http://cellbio.emory.edu/faculty-p
 Lists / resources you may find interesting or useful:
 - Future PI Slack: online peer support group for postdocs interested in staying in academia. [website](https://futurepislack.wordpress.com/) and [@FuturePI_Slack twitter](https://twitter.com/FuturePI_Slack)
 - My [reading list](https://docs.google.com/document/d/1Vi-_KIaPjgo1Xu925LT7XwXkefkY7wilKGlyzL4Hk0E/preview) (send new recs to [@pearl_ryder via Twitter](https://twitter.com/pearl_ryder)!)
+- A list of [useful Linux commands](https://docs.google.com/document/d/1xgDIEad4pmsJPM4Jm1UcD1_ICoiFgQuBL7UjCDt0xog/preview?usp=sharing), created in October 2020 and updated as I learn more.
 - My [CV](https://drive.google.com/file/d/1oNr7zJZlPYZu9ByfWU6rtDEVdUkq0D8e/view) if it's of interest
 
  This website was created using the Pixyll Jekyll theme by [John Otander](http://johnotander.com)

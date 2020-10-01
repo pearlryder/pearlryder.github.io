@@ -1,5 +1,5 @@
 ---
-title: Teaching Recap: Precision Medicine, Race, and Health
+title: Precision Medicine, Race, and Health
 layout: page
 ---
 As a member of the [Fellowships in Research and Science Teaching program](http://www.biology.emory.edu/first/) here at Emory, I have been taking a course this semester on "How to Teach" (which led to the quick demise of [my project to document my reading](https://pearlryder.github.io/reading-for-pleasure/) and very much impacted my Twitter presence - it turns out that as things get busy in my work life, keeping up with Twitter goes out the door). But we're nearing the end of the semester now, and I wanted to take some time to reflect back on my most recent experience teaching within the course and to share some teaching tools for discussing Precision Medicine, Race, and Health.
