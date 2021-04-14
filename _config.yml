@@ -1,12 +1,12 @@
 # Site wide configuration
 
 title: Pearl Ryder, MD, PhD
-description: "Cell biologist studying microtubule organization using experimental and computational tools"
+description: "Image analyst at the Broad Institute Imaging Platform"
 locale: en
 url: "http://pearlryder.github.io"
 header_pages:
  - about.md
- - _posts/2017-06-21-future-pi-slack.md
+ - wedding.md
 
 # Google services
 google_verification:
