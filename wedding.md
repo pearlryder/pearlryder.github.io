@@ -20,6 +20,8 @@ Then, optional-but-suggested 2.2 mile slow-rolling **bike parade** to...
 
 **Reception** @ [Trees Atlanta](https://www.treesatlanta.org/) with on-site bike valet.
 
+**Post-wedding brunch** @ [Kirkwood School Lofts](https://goo.gl/maps/NMWM1fWwzF2E6FRg7) 10 AM - 2 PM
+
 Festive attire encouraged, but wear whatever you want! Just don't upstage us. If you're biking to the event (which you should) don't forget to consider leg mobility/fabric looseness when planning your attire.
 
 # Vaccine
