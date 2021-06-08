@@ -14,11 +14,11 @@ tags: wedding
 
 Atlanta, Georgia
 
-First, **ceremony** @ [Kirkwood School Lofts](https://goo.gl/maps/NMWM1fWwzF2E6FRg7)
+First, **ceremony** @ [Kirkwood School Lofts](https://goo.gl/maps/NMWM1fWwzF2E6FRg7), 138 Kirkwood Rd NE, Atlanta GA 30317
 
 Then, optional-but-suggested 2.2 mile slow-rolling **bike parade** to...
 
-**Reception** @ [Trees Atlanta](https://www.treesatlanta.org/) with on-site bike valet.
+**Reception** @ [Trees Atlanta](https://www.treesatlanta.org/), 225 Chester Ave., Atlanta GA 30316 with on-site bike valet.
 
 **Post-wedding brunch** @ [Kirkwood School Lofts](https://goo.gl/maps/NMWM1fWwzF2E6FRg7) 10 AM - 2 PM
 
