@@ -12,8 +12,8 @@ tags: wedding
 
 - [Wedding Details!](#wedding-details)
 - [The short and sweet version](#the-short-and-sweet-version)
-- [Saturday ceremony](#saturday-ceremony)
-- [Saturday bike parade](#saturday-bike-parade)
+- [Saturday ceremony](#ceremony)
+- [Saturday bike parade](#bike-parade)
 - [Reception](#reception)
 - [Sunday brunch](#sunday-brunch)
 - [Vaccine](#vaccine)
@@ -72,6 +72,6 @@ If you would like to give us a gift (and it is entirely your choice), we prefer 
 # RSVP
 
 We need to know if you're coming! [Répondez s'il vous plaît](https://docs.google.com/forms/d/e/1FAIpQLSfHMGkYJDAFl4x0VJfo1EyQyeg-4wOVq3fyrA0bNBwsPj2XbQ/viewform?usp=sf_link).
-  
+
 
 ![](/images/riding-into-sunset.JPG)
