@@ -12,11 +12,14 @@ tags: wedding
 
 - [Wedding Details!](#wedding-details)
 - [The short and sweet version](#the-short-and-sweet-version)
-- [Saturday ceremony](#ceremony)
-- [Saturday bike parade](#bike-parade)
+- [Cookie delivery + reception setup!](#cookie-delivery-reception-setup)
+- [Ceremony](#ceremony)
+- [Bike parade](#bike-parade)
 - [Reception](#reception)
+- [Cookie exchange](#cookie-exchange)
 - [Sunday brunch](#sunday-brunch)
 - [Vaccine](#vaccine)
+- [Attire](#attire)
 - [Gifts](#gifts)
 - [RSVP](#rsvp)
 
@@ -38,17 +41,32 @@ Please park on the street and then enter through the car gate at [1995 Warlick P
 
 After the ceremony, bike (encouraged!) or drive to [Trees Atlanta, 225 Chester Ave SE, Atlanta, GA 30316](https://goo.gl/maps/hAoKfHWKRCh2rFpR7). There will be a bike valet in the parking lot behind Trees Atlanta. Those driving can park at the [Atlanta Habitat for Humanity ReStore](https://goo.gl/maps/sZvQhqQTCL2RU83d8) next door to Trees Atlanta and walk over. Anyone with limited mobility can park in the parking lot behind Trees Atlanta.
 
+# Cookie delivery + reception setup!
+Want a little extra time with us? Have free time on Friday afternoon?
+
+Join us at Trees Atlanta on Friday, August 13th at any time between 12 PM and 4 PM to help with setup (setting out tables, chairs, decorating, hanging strand lights, etc.)
+
+During this time you're also welcome to drop off a plate of cookies for the cookie exchange so that you don't have to carry them on your bicycle.
+
 # Ceremony
 Our ceremony will begin at 5 PM on Saturday evening. Prepare for heat! We'll have cold non-alcoholic drinks and hand fans to try to help everyone stay cool.
 
 # Bike parade
 After the ceremony, we'll gather our belongings and parade to the reception, about 2.2 miles away. The route is available [here](http://www.gmap-pedometer.com/?r=7602781). Drivers are encouraged to drive behind the cyclists (carefully!).
 
+We will have a bike valet at Trees Atlanta which will remain open until midnight. You won't need to carry your own lock for the ceremony/reception.
+
+If you're interested in using Lyft or Uber to get home, you may want to consider riding a [Relay bike share bicycle](https://gohopr.com/atlanta/).  
+
 # Reception
 After a cold drink and snack at Trees Atlanta, we'll dine on Caribbean food from Chelsea's Vegetarian Restaurant (vegan and vegetarian options) and then spend the night dancing. Dessert will be pie from [Evergreen Butcher and Baker](https://www.evergreenbutcherandbaker.com/).
 
 # Cookie exchange
-For those local to Atlanta, please consider bringing a plate of cookies to share! All guests are encouraged to prepare a selection of cookies to bring home and enjoy.  
+For those local to Atlanta, please consider bringing a plate of cookies to share!
+
+If you would like to deliver your cookies early, so that you don't have to bike home with them, you can bring your cookies to Trees Atlanta on **Friday, August 13th, from 12 PM to 4 PM**.
+
+All guests are encouraged to prepare a selection of cookies to bring home and enjoy.  
 
 # Sunday brunch
 Everyone is invited to brunch at our home at the Kirkwood School Lofts on Sunday morning! Please drop in when you can. 10 AM - 2 PM. For parking info, refer to [the short and sweet info](#the-short-and-sweet-version). Brunch will include vegan options and be served from the [Rising Son restaurant](https://www.risingsonavondale.com/)
@@ -56,6 +74,8 @@ Everyone is invited to brunch at our home at the Kirkwood School Lofts on Sunday
 # Vaccine
 
 COVID-19 vaccination of each vaccine-eligible guest is mandatory for our wedding.
+
+We do understand that children are not eligible for vaccination and childcare isn't always readily available. We do welcome children to join us, but please be aware that there will be ~ 10-15 other young children at the ceremony and reception. 
 
 # Attire
 
