@@ -8,36 +8,12 @@ tags: wedding
 
 ![](/images/beach_ride.png)
 
-# Extra events for Pearl and Craig's wedding!
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+We're sad but feel it's necessary to postpone our large wedding celebration. We were so excited to see many friends, coming from all over the country (and world). We hoped to safely celebrate, including hugs and dancing in close proximity.
 
-- [Thursday ceremony](#thursday-ceremony)
-- [Friday rehearsal](#friday-rehearsal)
-- [Rehearsal dinner](#rehearsal-dinner)
-- [RSVP](#rsvp)
+With the uncertainty around the delta variant, we've decided that we'd prefer to postpone our large celebration until we can safely celebrate with everyone (and not worry about someone getting sick at our wedding).
 
-<!-- /TOC -->
+We understand that many of you have made travel plans to attend and we hope the airlines will work with you to help with refunds / changes. Delta Airlines, for example, is now allowing basic economy tickets to be changed or cancelled (in exchange for a flight voucher to be used before Dec 2022; we hope that it's safe to fly before then!). AirBnB hosts may be able to be flexible with cancellations since this is due to the pandemic. If this is putting you in a bad spot, please get in touch with us.
 
-# Thursday ceremony
-Close family and friends are invited to join us for a small wedding ceremony at our home on Thursday, August 12th. This date will be our anniversary. We chose this date to honor Craig's beloved father Jim, who was born on August 12th and passed away nearly one year ago.
-
-Arrive at 12:30 PM for drinks and mingling, ceremony at 1 PM followed by lunch.
-
-Kirkwood School Lofts, 138 Kirkwood Rd NE, Atlanta GA 30317.
-
-Park on the street and enter through the gate on Kirkwood Rd near Robson Pl (look for the white columns). Those with limited mobility can enter through the gate at 1995 Warlick Pl NE, Atlanta GA 30317. Park in the lot to the lower right and call Pearl (207-664-8232) for help getting to the ceremony location.
-
-We'll have limited space at lunch and may need to limit attendees to the first who respond. But don't worry, you can see us at the Friday rehearsal, Saturday main event, and Sunday brunch!
-
-Lunch will have vegetarian and vegan options and be catered by Pearl's good friend, personal chef Michelle Skalka ([Clean Plate Club](https://www.cleanplateclubatl.com/), with assistance from friend Amy Marti).
-
-# Friday rehearsal
-For those involved in the wedding ceremony, please join us at 5 PM at the Kirkwood School Lofts for a rehearsal of the main event. Location and parking details available on the [main wedding site](https://pearlryder.github.io/wedding/#the-short-and-sweet-version).
-
-# Rehearsal dinner
-Close friends and family are invited to join us for the rehearsal dinner at [Herban Fix](http://herbanfix.com/), a restaurant in downtown Atlanta. Free parking is available inside the garage on Linden Ave.
-
-# RSVP
-Please RSVP for the Thursday lunch and Friday dinner at this [Google form](https://docs.google.com/forms/d/e/1FAIpQLScKpGMSvEn3YqhEYLNbN7_GK63sF470oN9lWxPEmyjL_dcxhg/viewform) 
+We'll give it a few months for things to cool down, and hope to come up with a date to celebrate with y'all in 2022.
 
 ![](/images/love.jpeg)
