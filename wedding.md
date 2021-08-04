@@ -7,91 +7,17 @@ tags: wedding
 ---
 ![](/images/riding.JPG)
 
-# Wedding Details!
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+# Wedding Postponed :(
 
-- [Wedding Details!](#wedding-details)
-- [The short and sweet version](#the-short-and-sweet-version)
-- [Cookie delivery + reception setup!](#cookie-delivery-reception-setup)
-- [Ceremony](#ceremony)
-- [Bike parade](#bike-parade)
-- [Reception](#reception)
-- [Cookie exchange](#cookie-exchange)
-- [Sunday brunch](#sunday-brunch)
-- [Vaccine](#vaccine)
-- [Attire](#attire)
-- [Gifts](#gifts)
-- [RSVP](#rsvp)
+We're sad but feel it's necessary to postpone our large wedding celebration. We were so excited to see many friends, coming from all over the country (and world). We hoped to safely celebrate, including hugs and dancing in close proximity.
 
-<!-- /TOC -->
+With the uncertainty around the delta variant, we've decided that we'd prefer to postpone our large celebration until we can safely celebrate with everyone (and not worry about someone getting sick at our wedding).
 
-# The short and sweet version
-If you're ready to go with the flow, then here's the short and sweet of what you need to know:
+We understand that many of you have made travel plans to attend and we hope the airlines will work with you to help with refunds / changes. Delta Airlines, for example, is now allowing basic economy tickets to be changed or cancelled (in exchange for a flight voucher to be used before Dec 2022; we hope that it's safe to fly before then!). AirBnB hosts may be able to be flexible with cancellations since this is due to the pandemic. If this is putting you in a bad spot, please get in touch with us.
+
+We'll give it a few months for things to cool down, and hope to come up with a date to celebrate with y'all in 2022.
 
 
-**Saturday, August 14, 2021**
-
-**5 PM, Kirkwood School Lofts**
-
-*Ecuadorian guests should plan on arriving at 3pm*
-
-*Gates open at 4:30 PM*
-
-Please park on the street and then enter through the car gate at [1995 Warlick Pl NE, Atlanta, GA 30317](https://goo.gl/maps/vFvF8z7QBt2jmZpP9). Bike parking will be located along the fence to the right of the field. Those with limited mobility may drive through the gate and park in the gravel lot to the lower right.
-
-After the ceremony, bike (encouraged!) or drive to [Trees Atlanta, 225 Chester Ave SE, Atlanta, GA 30316](https://goo.gl/maps/hAoKfHWKRCh2rFpR7). There will be a bike valet in the parking lot behind Trees Atlanta. Those driving can park at the [Atlanta Habitat for Humanity ReStore](https://goo.gl/maps/sZvQhqQTCL2RU83d8) next door to Trees Atlanta and walk over. Anyone with limited mobility can park in the parking lot behind Trees Atlanta.
-
-# Cookie delivery + reception setup!
-Want a little extra time with us? Have free time on Friday afternoon?
-
-Join us at Trees Atlanta on Friday, August 13th at any time between 12 PM and 4 PM to help with setup (setting out tables, chairs, decorating, hanging strand lights, etc.)
-
-During this time you're also welcome to drop off a plate of cookies for the cookie exchange so that you don't have to carry them on your bicycle.
-
-# Ceremony
-Our ceremony will begin at 5 PM on Saturday evening. Prepare for heat! We'll have cold non-alcoholic drinks and hand fans to try to help everyone stay cool.
-
-# Bike parade
-After the ceremony, we'll gather our belongings and parade to the reception, about 2.2 miles away. The route is available [here](http://www.gmap-pedometer.com/?r=7602781). Drivers are encouraged to drive behind the cyclists (carefully!).
-
-We will have a bike valet at Trees Atlanta which will remain open until midnight. You won't need to carry your own lock for the ceremony/reception.
-
-If you're interested in using Lyft or Uber to get home, you may want to consider riding a [Relay bike share bicycle](https://gohopr.com/atlanta/).  
-
-# Reception
-After a cold drink and snack at Trees Atlanta, we'll dine on Caribbean food from Chelsea's Vegetarian Restaurant (vegan and vegetarian options) and then spend the night dancing. Dessert will be pie from [Evergreen Butcher and Baker](https://www.evergreenbutcherandbaker.com/).
-
-# Cookie exchange
-For those local to Atlanta, please consider bringing a plate of cookies to share!
-
-If you would like to deliver your cookies early, so that you don't have to bike home with them, you can bring your cookies to Trees Atlanta on **Friday, August 13th, from 12 PM to 4 PM**.
-
-All guests are encouraged to prepare a selection of cookies to bring home and enjoy.  
-
-# Sunday brunch
-Everyone is invited to brunch at our home at the Kirkwood School Lofts on Sunday morning! Please drop in when you can. 10 AM - 2 PM. For parking info, refer to [the short and sweet info](#the-short-and-sweet-version). Brunch will include vegan options and be served from the [Rising Son restaurant](https://www.risingsonavondale.com/)
-
-# Vaccine
-
-COVID-19 vaccination of each vaccine-eligible guest is mandatory for our wedding.
-
-We do understand that children are not eligible for vaccination and childcare isn't always readily available. We do welcome children to join us, but please be aware that there will be ~ 10-15 other young children at the ceremony and reception. 
-
-# Attire
-
-Festive attire is encouraged for the ceremony and reception, but wear whatever you want! Just don't upstage us. If you're biking to the event (which you should) don't forget to consider leg mobility/fabric looseness when planning your attire.
-
-# Gifts
-Your presence is gift enough. We are not gifty people and would prefer not to receive physical gifts (unless they're edible).
-
-If you would like to give us a gift (and it is entirely your choice), we prefer one of these options:
-
-1. Make a donation to [Concrete-Jungle](https://www.concrete-jungle.org/), a non-profit started by Craig and his friends to rescue abandoned fruit and vegetables to share with those in need.
-2. For those local to Atlanta, please consider bringing a plate of cookies! We'll have a cookie room at Trees Atlanta where all our guests can make their own cookie medley to bring home at the end of the evening (plus cookies to eat while you're there)
-
-# RSVP
-
-We need to know if you're coming! [Répondez s'il vous plaît](https://docs.google.com/forms/d/e/1FAIpQLSfHMGkYJDAFl4x0VJfo1EyQyeg-4wOVq3fyrA0bNBwsPj2XbQ/viewform?usp=sf_link).
-
+![](/images/beach_lift.JPG)
 
 ![](/images/riding-into-sunset.JPG)
