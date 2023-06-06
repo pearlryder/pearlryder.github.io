@@ -7,15 +7,35 @@ tags: wedding
 ---
 ![](/images/riding.JPG)
 
-# Wedding Postponed :(
+# Wedding Reception!
 
-We're sad but feel it's necessary to postpone our large wedding celebration. We were so excited to see many friends, coming from all over the country (and world). We hoped to safely celebrate, including hugs and dancing in close proximity.
+Hey hey! It's been nearly two years since we got married and it's time to party! We hope you can join us in Atlanta for our wedding celebrations.
 
-With the uncertainty around the delta variant, we've decided that we'd prefer to postpone our large celebration until we can safely celebrate with everyone (and not worry about someone getting sick at our wedding).
+RSVP link available in your email.
 
-We understand that many of you have made travel plans to attend and we hope the airlines will work with you to help with refunds / changes. Delta Airlines, for example, is now allowing basic economy tickets to be changed or cancelled (in exchange for a flight voucher to be used before Dec 2022; we hope that it's safe to fly before then!). AirBnB hosts may be able to be flexible with cancellations since this is due to the pandemic. If this is putting you in a bad spot, please get in touch with us.
+## Wedding Weekend: August 11 - 13, 2023
 
-We'll give it a few months for things to cool down, and hope to come up with a date to celebrate with y'all in 2022.
+#### Friday, August 11 ~ 5 PM
+Join us after work for a <strong>picnic in Bessie Branham park</strong>. See the park where we got married in 2021. Bring your own food and beverage. Silly games and a playground. Kid friendly!
+
+Where: Bessie Branham park: 100 Norwood Ave., Atlanta, GA 30314<br>
+Time: 5 PM - 9 PM<br>
+Dress: Casual and for the heat<br>
+Bathrooms available about a two block walk away in Pearl & Craig's apartment.
+
+#### Saturday, August 12 ~ 5 PM
+Dinner + dancing at Trees Atlanta. The big shindig. Break out the sparkles and razzle dazzle. Let's celebrate!
+
+Where: Trees Atlanta: 825 Warner Street SW, Atlanta GA 30310<br>
+Optional: Bicycle parade departs Kirkwood at 4 PM<br>
+Time: 5 PM on<br>
+Dress: Whatever makes you feel special
+
+#### Sunday, August 13 ~ 10 AM
+Join us at our apartment for a post-wedding brunch.
+
+Where: Kirkwood School Lofts. 138 Kirkwood Rd NE Apt 6, Atlanta GA 30317<br>
+Time: 10 AM - 1 PM
 
 
 ![](/images/beach_lift.JPG)
