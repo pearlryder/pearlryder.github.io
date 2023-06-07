@@ -18,7 +18,7 @@ RSVP link available in your email.
 #### Friday, August 11 ~ 5 PM
 Join us after work for a <strong>picnic in Bessie Branham park</strong>. See the park where we got married in 2021. Bring your own food and beverage. Silly games and a playground. Kid friendly!
 
-Where: Bessie Branham park: 100 Norwood Ave., Atlanta, GA 30314<br>
+Where: Bessie Branham park: 2051 Delano Dr NE, Atlanta, GA 30317<br>
 Time: 5 PM - 9 PM<br>
 Dress: Casual and for the heat<br>
 Bathrooms available about a two block walk away in Pearl & Craig's apartment.
