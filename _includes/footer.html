@@ -1,18 +1,6 @@
-<footer class="center">
-  <div class="measure">
-    <small>
-      Find me on Twitter <a href="https://twitter.com/pearl_ryder">@pearl_ryder</a>.
-    </small>
-  </div>
+<footer class="footer">
+  {% for item in site.data.settings.social %}
+    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% endfor %}
+  <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }} by {{ site.author }}</a></div>
 </footer>
-{% if site.enable_anchorjs %}<!-- AnchorJS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
-<script>
-    anchors.options.visible = 'always';
-    anchors.add('article h2, article h3, article h4, article h5, article h6');
-</script>{% endif %}
-<script type="text/javascript">
-    if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
-    }
-</script>
