@@ -26,4 +26,8 @@ $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
 
+figcaption {
+  font-style: italic;
+}
+
 @import "-sections-dir";
