@@ -6,13 +6,11 @@ categories: documentation
 tags: [documentation,slow,design,sketching]
 image: 2024-01-18-rediscovering-sketching/sketch-3.png
 ---
-I have been sketching, thanks to [Brooks Ann Camper's](https://brooksann.com/) Skirt Skills [course](https://learnwithbrooksann.com/skirt-skills/). Below I dive into what I've done, but I want to record some big picture thoughts about the process here. *[Content warning: some body image discussion]*
+I have been sketching, thanks to [Brooks Ann Camper's](https://brooksann.com/) Skirt Skills [course](https://learnwithbrooksann.com/skirt-skills/). Below I dive into what I've done, but I want to record some big picture thoughts about the process here.
 
 1. Using the custom croquis tool forces me to go more slowly and be more deliberate when I'm sketching.
-2. Sometimes I like to be fast and loose! I'll still sketch wild looking, elephant garments* when that's where I'm at. But now I have the option. *see below
-3. Loving my body is an active process that doesn't always feel natural. It makes sense that this is hard - I was raised as a girl in the 90s in the United States. But looking at photographs of myself and interacting with my shape in non-judgmental ways help me to build that love. (Not to mention making beautifully constructed garments that fit.)
-4. Developing that self love and embracing my body feels so important. I have a young daughter. I want her to know that all bodies are good and that her body is not an ornament. I also want to avoid negative body talk slipping out from my subconscious.
-5. Both my watercolor workbook and Brooks Ann's process emphasize warm ups to get into the creative mindset. And the warm-ups feel so relaxing and loosening.
+2. Sometimes I like to be fast and loose! I'll still sketch wild looking, elephant garments* when that's where I'm at. But now I have another option. *see below
+3. Both my watercolor workbook and Brooks Ann's process emphasize warm ups to get into the creative mindset. And the warm-ups feel so relaxing and loosening.
 
 Sketching out clothes I want to wear / sew isn't new to me, but I've never used a custom croquis tool to sketch clothes relative to my particular shape before. (I was aware of these custom croquis tools thanks to [Social Sewists](https://www.socialsewists.com) of [Wardrobe Social/Jennifer Wiese](https://workroomsocial.com/), but I hadn't tried it yet.) I like the loose and free feeling of my unstructured sketches:
 
