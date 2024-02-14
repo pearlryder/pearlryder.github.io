@@ -18,7 +18,13 @@ This sketch was a real win for me. I've been realizing over the last few weeks t
 
 And so, this is where I was last Sunday morning. Tired and frazzled but also buzzing and electric. I was short tempered and irritable with Cassie. Craig was just waking up after his turn to sleep in and he invited me to join them on a walk. And I felt that pull, the internal pushing aside of the quiet one, the "sure you want some quiet, but it's more important to go and be in person and connect through shared time." But I said no and instead sat down at my desk and made this sketch and found it actually a very restful and still connecting process. That was the surprise for me. That quiet reflection time spent alone doesn't mean distancing myself from others. If anything, the pushing aside of what I want to meet what I think others want is ultimately more distancing when I get exhausted, angry, and resentful that my needs aren't met. But it is an active process to practice taking the space that I need and prove to myself that it can be done safely.
 
-In other news from the back bedroom, I have been chipping away at making my custom skirt block with Brooks Ann, which has involved a lot of mirror photos, body studying, and measurements. I am happy to be moving forward into the paper block draft and getting my hands on some fabric next week. I started to feel itchy to get my hands on some fabric this past week, so I pulled out some quilt scraps that I've been playing with. This quilt top is built of 6" strips of my garment sewing scraps.
+In other news from the back bedroom, I have been chipping away at making my custom skirt block with Brooks Ann, which has involved a lot of mirror photos, body studying, and measurements. I am happy to be moving forward into the paper block draft and getting my hands on some fabric next week.
+
+![](/assets/img/2024-01-26-warmups-and-numbers/body-study.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+<figcaption>I have studied my body in the mirror a LOT this week.
+</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+
+I started to feel itchy to get my hands on some fabric this past week, so I pulled out some quilt scraps that I've been playing with. This quilt top is built of 6" strips of my garment sewing scraps.
 
 ![](/assets/img/2024-01-26-warmups-and-numbers/space-for-everything.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>Sometimes on a gray and rainy day, I need to touch bright and colorful fabric.
