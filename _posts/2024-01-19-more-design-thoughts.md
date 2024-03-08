@@ -2,7 +2,7 @@
 layout: post
 title: More Design Thoughts
 author: "Pearl Ryder"
-categories: documentation
+categories: documentation, design
 tags: [documentation,slow,design,sketching]
 image: 2024-01-19-more-design-thoughts/trumpet-skirt.png
 ---

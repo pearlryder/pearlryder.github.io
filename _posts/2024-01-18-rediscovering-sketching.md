@@ -2,7 +2,7 @@
 layout: post
 title: Rediscovering Sketching
 author: "Pearl Ryder"
-categories: documentation
+categories: documentation, design
 tags: [documentation,slow,design,sketching]
 image: 2024-01-18-rediscovering-sketching/sketch-3.png
 ---

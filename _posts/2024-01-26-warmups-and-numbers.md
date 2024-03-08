@@ -3,7 +3,7 @@ layout: post
 title: Warmups and Numbers
 author: "Pearl Ryder"
 categories: documentation
-tags: [documentation,slow,design,sketching]
+tags: [documentation,slow]
 image: 2024-01-26-warmups-and-numbers/space-for-everything.png
 ---
 Something I  have incorporated from [Brooks Ann Camper's](https://brooksann.com/) Skirt Skills [class](https://learnwithbrooksann.com/skirt-skills/) is the utility of warmups. I've been working on a simple scrap quilt (more on that below) and now I start my sewing time with something very simple related to that quilt -- laying out the strips or cutting a few more. It takes about 5-10 minutes, max, and I can feel it help me get into the groove. The obvious takeaways from a class are the content - and Skirt Skills is delivering so far on that front! - but what I'm noticing most about taking this course is how much I am absorbing Brooks Ann's approach. Use a warm up to gently get started. Stop and take breaks to stretch, eat a snack, take a walk. Be kind to yourself. These aren't delivered as preachy messages but rather integrated into how the content is delivered. As those TikTokkers say, I am here for it.

@@ -2,8 +2,8 @@
 layout: post
 title: A Skirt Mockup!
 author: "Pearl Ryder"
-categories: documentation
-tags: [documentation,slow,custom,mockup,dyeing]
+categories: documentation, design
+tags: [documentation,slow,custom,mockup]
 image: 2024-03-07-a-skirt-mockup/skirt-design.png
 ---
 <figcaption>An early sketch of my skirt design idea.
