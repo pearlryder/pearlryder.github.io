@@ -3,7 +3,7 @@ layout: post
 title: Lessons in Process
 author: "Pearl Ryder"
 categories: documentation
-tags: [documentation,slow,custom]
+tags: [documentation,slow,custom,block,mockup]
 image: 2024-02-14-lessons-in-process/skirt-block-done.png
 ---
 The last few weeks have been a study in patience and slowing down. At the end of January, I embarked on the custom skirt block mockup testing process. Ah, the joy of new handskills: cutting, threadmarking, pin basting, machine basting, hand basting. [Brooks Ann Camper](https://brooksann.com/) teaches new approaches for all of these skills and I have thoroughly enjoyed trying out her style.
