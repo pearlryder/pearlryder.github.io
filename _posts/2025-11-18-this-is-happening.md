@@ -4,7 +4,7 @@ title: This is Happening.
 author: "Pearl Ryder"
 categories: immigration
 tags: [documentation]
-image: 2025-11-18-this-is-happening/devesa-park.png
+image: 2025-11-18-this-is-happening/devesa-park.jpg
 ---
 
 ### We are moving!
