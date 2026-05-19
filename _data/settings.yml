@@ -1,29 +1,31 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: "millennial-3"
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: ""
 
 menu:
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+  - { name: "Documentation", url: "documentation" }
+  - { name: "Immigration", url: "immigration" }
+  - { name: "Travel", url: "travel" }
+  - { name: "About", url: "about" }
+  - { name: "Contact", url: "contact" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'instagram', link:  'https://instagram.com/sew_bike_play'}
+  - { icon: "instagram", link: "https://instagram.com/sew_bike_play" }
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: "Newer"
+  previous_page: "Older"
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: "Feel free to share!"
 
-related_posts: 'You may also enjoy...'
+related_posts: "You may also enjoy..."
 
-post_date_prefix: 'Written on'
+post_date_prefix: "Written on"
